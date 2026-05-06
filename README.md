@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 # Portfolio
 This repo contains my porfolio.
 # Shubhang Rege - Personal Portfolio Website
 
+=======
+>>>>>>> f0709651ffcb0e3e66a5efd05a65becb106d510d
 A modern, responsive personal portfolio website built to showcase my skills, experience, education, and projects. As a Software Developer and MCA student at Goa University, this site serves as my digital resume and a central hub for my professional online presence.
 
 ## ✨ Features
@@ -32,9 +35,12 @@ To view or work on this project locally, follow these steps:
 
 No build tools or package managers are required to run this project.
 
+<<<<<<< HEAD
 ## 📫 Let's Connect
 
 *   **Email:** regeshubhang777@gmail.com
 *   **LinkedIn:** Shubhang Rege
 *   **GitHub:** Techultra55
 *   **X (Twitter):** RegeShubhang_66
+=======
+>>>>>>> f0709651ffcb0e3e66a5efd05a65becb106d510d
